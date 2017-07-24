@@ -1,0 +1,17 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "onFocusChange",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "editor.minimap.enabled": false
+}
+
+/*
+root = true
+[*]
+indent_style = tab
+indent_size = 4
+trim_trailing_whitespace = true
+insert_final_newline = true
+*/
